@@ -1,0 +1,12 @@
+id,track_name,artist,album,duration_ms,release_date,acousticness,danceability,instrumentalness,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+03QZPaiw1N94aAFDv7k5Em, Rock 'n' Roll Star, Oasis, Definitely Maybe, 322960, 1994-08-29, 0.000325, 0.32, 0.00392, 0.169, -4.56, 1, 0.0381, 131.396, 4, 0.339
+6Js4ekYgSpkrfaU33sJyeI, Shakermaker, Oasis, Definitely Maybe, 308466, 1994-08-29, 0.00693, 0.354, 0.000004, 0.147, -5.698, 1, 0.0315, 126.973, 4, 0.177
+1KgfeuVn5OlsBEtoEmBa1t, Live Forever, Oasis, Definitely Maybe, 276493, 1994-08-29, 0.000424, 0.323, 0.00161, 0.0883, -4.84, 1, 0.0345, 153.308, 4, 0.317
+3PRv7fmKiVWG8cIatkFNX3, Up In The Sky, Oasis, Definitely Maybe, 268600, 1994-08-29, 0.000062, 0.339, 0.000287, 0.126, -3.906, 1, 0.0366, 140.547, 4, 0.448
+1YVtoErcUIG1jxnKPtihGe, Columbia, Oasis, Definitely Maybe, 377040, 1994-08-29, 0.000465, 0.339, 0.0336, 0.117, -5.328, 1, 0.0334, 108.682, 4, 0.36
+6dUfUi14QkuIpGA0GFFPyC, Supersonic, Oasis, Definitely Maybe, 283626, 1994-08-29, 0.000101, 0.355, 0.000001, 0.274, -4.823, 1, 0.0318, 104.372, 4, 0.505
+4H9muKIJpzTODxUxkPTgnH, Bring It On Down, Oasis, Definitely Maybe, 257400, 1994-08-29, 0.000004, 0.198, 0.000199, 0.321, -3.42, 1, 0.0536, 151.706, 4, 0.252
+2wKeVnM8OBoGjGm8Qvqhi5, Cigarettes & Alcohol, Oasis, Definitely Maybe, 289893, 1994-08-29, 0.000085, 0.264, 0, 0.222, -3.418, 1, 0.0463, 110.844, 4, 0.413
+1JHCEDui9bf3hDxJcCwemy, Digsy's Dinner, Oasis, Definitely Maybe, 152866, 1994-08-29, 0.000143, 0.231, 0.000015, 0.165, -4.108, 1, 0.0458, 137.915, 4, 0.34
+62L8HlrCQLvBHKfpu8iqLa, Slide Away, Oasis, Definitely Maybe, 392266, 1994-08-29, 0.000407, 0.198, 0.000105, 0.111, -4.689, 1, 0.0366, 136.216, 4, 0.199
+4bvi8n8Xa2kX0UG02cvuE9, Married With Children, Oasis, Definitely Maybe, 192093, 1994-08-29, 0.103, 0.457, 0, 0.104, -8.761, 1, 0.0264, 87.585, 4, 0.339

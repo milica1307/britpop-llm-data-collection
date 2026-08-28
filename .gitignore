@@ -1,0 +1,24 @@
+# Python okruženje
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDE konfiguracija
+.idea/
+.vscode/
+
+# Selenium / scraping keš i privremeni podaci
+allmusic_cache_v2/
+uc_profile_allmusic/
+downloaded_files/
+
+# Jupyter checkpoint fajlovi (automatski se prave, nisu deo koda)
+.ipynb_checkpoints/
+
+# Ako budeš čuvala API ključeve u .env fajlu (preporučeno)
+.env
+
+# OS specifični fajlovi
+.DS_Store
+Thumbs.db

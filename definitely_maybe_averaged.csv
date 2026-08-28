@@ -1,0 +1,13 @@
+track_name,artist,album,track_number,release_date,popularity,duration_ms,key,acousticness,instrumentalness,danceability,energy,liveness,loudness,speechiness,valence,tempo,mode,time_signature
+Bring It On Down,Oasis,Definitely Maybe,7,1994-08-29,52,257324,7,8e-05,0.00022,0.295,0.966,0.275,-3.771,0.069,0.374,146.38,1,4
+Cigarettes & Alcohol,Oasis,Definitely Maybe,8,1994-08-29,69,289462,2,0.0007,0.0,0.311,0.953,0.157,-3.87,0.057,0.414,135.5,1,4
+Columbia,Oasis,Definitely Maybe,5,1994-08-29,58,377146,7,0.00013,0.01404,0.33,0.948,0.094,-4.301,0.042,0.276,111.88,1,4
+Digsy's Dinner,Oasis,Definitely Maybe,9,1994-08-29,50,152249,8,0.0084,0.0,0.371,0.919,0.284,-4.505,0.053,0.569,145.19,1,4
+Live Forever,Oasis,Definitely Maybe,3,1994-08-29,77,276333,7,0.00392,0.0,0.321,0.898,0.158,-4.136,0.044,0.352,125.74,1,4
+Married With Children,Oasis,Definitely Maybe,11,1994-08-29,62,191435,3,0.82933,0.0,0.5,0.299,0.097,-10.741,0.033,0.446,95.17,1,4
+Rock 'N' Roll Star,Oasis,Definitely Maybe,1,1994-08-29,68,322960,11,0.00032,0.00012,0.325,0.965,0.284,-4.12,0.065,0.38,132.4,1,4
+Rock 'n' Roll Star,Oasis,Definitely Maybe,1,1994-08-29,68,323100,11,0.00048,0.0001,0.312,0.934,0.289,-4.165,0.05,0.358,137.27,1,4
+Shakermaker,Oasis,Definitely Maybe,2,1994-08-29,56,308364,1,0.00707,0.0,0.373,0.867,0.139,-5.076,0.036,0.43,123.06,1,4
+Slide Away,Oasis,Definitely Maybe,10,1994-08-29,69,392293,4,0.00454,0.00022,0.276,0.901,0.159,-4.624,0.039,0.265,121.67,1,4
+Supersonic,Oasis,Definitely Maybe,6,1994-08-29,72,283431,9,0.00146,0.0004,0.327,0.918,0.159,-4.394,0.05,0.405,104.26,1,4
+Up In The Sky,Oasis,Definitely Maybe,4,1994-08-29,53,268480,6,0.00065,0.00085,0.366,0.948,0.256,-4.072,0.056,0.455,128.95,1,4
